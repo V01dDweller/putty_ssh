@@ -1,6 +1,6 @@
 # Launch Putty via HTML #
 
-Use this .reg. and .bat file to automatically launch [Putty](http://www.putty.org/) via ssh:// urls on Windows.  Thanks to a post from [cdelacroix](https://stackoverflow.com/users/570553/cdelacroix) @ [StackExchange](https://stackoverflow.com/questions/17670067/html-code-to-open-putty-client-from-browser) article for all the details.
+Use this .reg. and .bat file to automatically launch [Putty](http://www.putty.org/) via ssh:// urls on Windows.  Thanks to a post from [cdelacroix](https://stackoverflow.com/users/570553/cdelacroix) @ [StackExchange](https://stackoverflow.com/questions/17670067/html-code-to-open-putty-client-from-browser) for all the details.
 
 ### Files ###
 * putty_ssh.bat
